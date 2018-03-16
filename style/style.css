@@ -1,0 +1,25 @@
+
+.center {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center;
+
+}
+
+
+.center-item {
+    width:50%;
+
+}
+
+
+.down-center {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: flex-end;
+    align-items: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+
