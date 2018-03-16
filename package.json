@@ -26,7 +26,7 @@
     "extract-text-webpack-plugin": "^1.0.1",
     "immutability-helper": "^2.6.6",
     "immutable": "^3.8.2",
-    "jquery": "^2.2.4",
+    "jquery": "^3.0.0”,
     "jsdom": "^8.5.0",
     "lodash": "^3.10.1",
     "material-ui": "^0.16.7",
